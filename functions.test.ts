@@ -12,4 +12,4 @@ describe('shuffleArray should', () => {
     } )
 
    
-})
+});
